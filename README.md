@@ -11,7 +11,7 @@ Using run buttons, Steve will have the ability to put in the year into an input 
 ## Comparing 2017 and 2018 Stock Analysis
 Comparing the 2017 and the 2018 stocks, the difference in the total daily volume between the two years that resulted in less than a $100,000,000 in increased volume was not enough to generate a positive 2018 return percentage.  The tickers ENPH and RUN had would have been considered good investments due to the positive returns in 2018, and both of the tickers had increases greater than $200,000,000 over the 2017 total daily volumes. 
  
-![Pic 1](1Compare_2017_2018.png)
+![Pic 1](Resources1/1Compare_2017_2018a.png)
 
 ## Comparing the Original Run Times to the Refactored Run Times
 
@@ -29,11 +29,11 @@ Refactoring the code did make the run times decrease, which optimizes the code.
 ## What was the difference in the codes? 
 The original code contained a nested for loop.  Included in that outer loop, it also output the data for the current data, which resulted in a significant number of iterations.  
 
-![Pic 6](6Original_Code.png)
+![Pic 6](Resources1/6Original_Codea.png)
 
 With refactoring the code to only have one loop and moving the output to a separate loop, the number of iterations was drastically reduced.
 
-![Pic 7](7Refactored_Code.png)
+![Pic 7](Resources/7Refactored_Codea.png)
 
 # Summary
 ## 1. What are the advantages or disadvantages of refactoring code?
