@@ -1,5 +1,4 @@
-# Stock-Analysis
-Stock Analysis using VBA
+# Stock-Analysis Using VBA
 
 # Overview of Project
 ## Purpose of the Project
@@ -12,11 +11,12 @@ Using run buttons, Steve will have the ability to put in the year into an input 
 ## Comparing 2017 and 2018 Stock Analysis
 Comparing the 2017 and the 2018 stocks, the difference in the total daily volume between the two years that resulted in less than a $100,000,000 in increased volume was not enough to generate a positive 2018 return percentage.  The tickers ENPH and RUN had would have been considered good investments due to the positive returns in 2018, and both of the tickers had increases greater than $200,000,000 over the 2017 total daily volumes. 
  
-![Pic 1](Resources/1Compare_2017_2018.png)
+![Pic 1][Resources/1Compare_2017_2018.png]
 
 ## Comparing the Original Run Times to the Refactored Run Times
 
 Run times for the original code took around .4 seconds.
+
 ![Pic 2](Resources/2Original_2017_small.png)
 ![Pic 3](Resources/3Original_2018_small.png)
 
@@ -44,6 +44,6 @@ Finding the root cause of a potential bug can be done with refactoring.  A progr
 
 Programming can have multiple approaches to a solve a problem.  In those differences, programmers may have alternative logic steps, which will require testing to see how those differences play out in the script.  Refracting a stable code to apply a different set of logic could be costly or introduce new bugs into the system.  When juggling tight deadlines, programmers may also have to choose between refactoring or developing new code.  
 	
-##2. How do these pros and cons apply to refactoring the original VBA script?
+## 2. How do these pros and cons apply to refactoring the original VBA script?
 Reducing the number of loops decreases the memory needed for processing the data, which reduces the run time and optimizes the performance of the script. To refactor the code, testing has to be done with each new addition to check for the efficiency of the new code.  
 
