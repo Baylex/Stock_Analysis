@@ -11,29 +11,29 @@ Using run buttons, Steve will have the ability to put in the year into an input 
 ## Comparing 2017 and 2018 Stock Analysis
 Comparing the 2017 and the 2018 stocks, the difference in the total daily volume between the two years that resulted in less than a $100,000,000 in increased volume was not enough to generate a positive 2018 return percentage.  The tickers ENPH and RUN had would have been considered good investments due to the positive returns in 2018, and both of the tickers had increases greater than $200,000,000 over the 2017 total daily volumes. 
  
-![Pic 1][Resources/1Compare_2017_2018.png]
+![Pic 1][Resources2/1Compare_2017_2018.png]
 
 ## Comparing the Original Run Times to the Refactored Run Times
 
 Run times for the original code took around .4 seconds.
 
-![Pic 2](Resources/2Original_2017_small.png)
-![Pic 3](Resources/3Original_2018_small.png)
+![Pic 2](Resources2/2Original_2017_small.png)
+![Pic 3](Resources2/3Original_2018_small.png)
 
 Run times for the refactored code took around .08 seconds, which is displayed in scientific notation: 8 E -02.  
-![Pic 4](Resources/4Original_2017_small.png)
-![Pic 5](Resources/5Original_2017_small.png)
+![Pic 4](Resources2/4Original_2017_small.png)
+![Pic 5](Resources2/5Original_2017_small.png)
 
 Refactoring the code did make the run times decrease, which optimizes the code. 
 
 ## What was the difference in the codes? 
 The original code contained a nested for loop.  Included in that outer loop, it also output the data for the current data, which resulted in a significant number of iterations.  
 
-![Pic 6](Resources/6Original_Code.png)
+![Pic 6](Resources2/6Original_Code.png)
 
 With refactoring the code to only have one loop and moving the output to a separate loop, the number of iterations was drastically reduced.
 
-![Pic 7](Resources/7Refactored_Code.png)
+![Pic 7](Resources2/7Refactored_Code.png)
 
 # Summary
 ## 1. What are the advantages or disadvantages of refactoring code?
