@@ -21,8 +21,8 @@ Run times for the original code took around .4 seconds.
 ![Pic 3](Resources2/3Original_2018_small.png)
 
 Run times for the refactored code took around .08 seconds, which is displayed in scientific notation: 8 E -02.  
-![Pic 4](Resources2/4Original_2017_small.png)
-![Pic 5](Resources2/5Original_2017_small.png)
+![Pic 4](Resources2/4New_2017_Refactored_small.png)
+![Pic 5](Resources2/5New_2018_Refactored_small.png)
 
 Refactoring the code did make the run times decrease, which optimizes the code. 
 
