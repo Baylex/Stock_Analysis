@@ -33,7 +33,7 @@ The original code contained a nested for loop.  Included in that outer loop, it 
 
 With refactoring the code to only have one loop and moving the output to a separate loop, the number of iterations was drastically reduced.
 
-![Pic 7](Resources/7Refactored_Codea.png)
+![Pic 7](Resources1/7Refactored_Codea.png)
 
 # Summary
 ## 1. What are the advantages or disadvantages of refactoring code?
