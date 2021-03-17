@@ -1,8 +1,13 @@
 # Stock-Analysis Using VBA
+UT McCombs Data Boot Camp Module 2: VBA of Wall Street
 
-# Overview of Project
-## Purpose of the Project
+# Overview
+1. Create a VBA macro that can trigger pop-ups and inputs, read and change cell values, and format cells.
+2. Use for loops and conditionals to direct logic flow.
+3. Use nested for loops.
+4. Apply coding skills such as syntax recollection, pattern recognition, problem decomposition, and debugging.
 
+## Purpose
 As part of an assignment for the UT Data Boot Camp, an initial stock analysis was conducted for Steve.  The original code was then refactored to loop only once.  The purpose is to determine if the refactored changes made an impact on the run time.  
 
 Using run buttons, Steve will have the ability to put in the year into an input box, which removes any magic numbers.   The VBA code uses a timer, arrays, if-then conditional statements, assigns long/string data types, and adds static/conditional formatting.
