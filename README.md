@@ -1,5 +1,5 @@
 # Stock-Analysis Using VBA
-UT McCombs Data Boot Camp Module 2: VBA of Wall Street
+VBA of Wall Street
 
 # Overview
 1. Create a VBA macro that can trigger pop-ups and inputs, read and change cell values, and format cells.
